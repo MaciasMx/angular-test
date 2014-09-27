@@ -12,6 +12,8 @@ angular.module('angularTestApp')
     $scope.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
-      'Karma'
+      'Karma',
+      'E2E',
+      'Protractor'
     ];
   });
